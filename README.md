@@ -34,7 +34,7 @@ The dataset includes the following columns:
 
 ### Data Source
 
-The dataset was scraped using Beautiful Soup and Selenium from the [Election Commission of India results website](https://results.eci.gov.in/PcResultGenJune2024/index.htm).
+The dataset was scraped using **Beautiful Soup** and **Selenium** from the [Election Commission of India results website](https://results.eci.gov.in/PcResultGenJune2024/index.htm).
 
 ### Author
 
